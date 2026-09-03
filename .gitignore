@@ -1,0 +1,4 @@
+# Private source material and local Codex instructions
+*.pdf
+*.csv
+/AGENTS.md
