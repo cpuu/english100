@@ -51,6 +51,12 @@ I(S) + walked(V) | along the river(M) | yesterday(M)
 Mina(S) + read(V) + the report(O) | carefully(M)
 ```
 
+동사와 목적어는 보통 한 덩어리로 붙여 쓴다. 방식·장소·시간은 그 뒤에 놓는 것이 기본이다.
+
+- `Our guide spoke English fluently.` (보통 `spoke fluently English`라고 하지 않는다.)
+- `We took the children to the zoo.` (보통 `took to the zoo the children`이라고 하지 않는다.)
+- `Ben walks to work every morning.` - 대체로 장소 뒤에 시간이 온다.
+
 전치사 뒤 명사는 직접목적어가 아니다. `look at the picture`의 `the picture`는 `at`의 목적어다.
 
 ### 4형식 - S + V + IO + DO
@@ -101,7 +107,22 @@ The news made me happy.
 - `They made us wait.`
 - `We were made to wait.`
 
+`help` 뒤에서는 `to`를 쓰거나 생략할 수 있다.
+
+- `Can you help me move this table?`
+- `Can you help me to move this table?`
+
+반면 `suggest`는 보통 `목적어 + to부정사` 구조를 취하지 않는다.
+
+- 자연스러움: `Jane suggested that I ask for advice.`
+- 부자연스러움: `Jane suggested me to ask for advice.`
+
 지각동사 뒤의 동사원형은 사건 전체, `-ing`형은 진행 중인 장면에 초점을 두는 경향이 있다.
+
+```text
+I saw Tom get into his car.       차에 타는 사건 전체를 봄
+I saw Kate waiting for a bus.     기다리는 중인 장면을 봄
+```
 
 ## 3. 목적어·보어·수식어 판별 공식
 
@@ -129,6 +150,16 @@ The news made me happy.
 | `She waved the flag.` | `She waved at me.` | 깃발을 흔듦 ↔ 나를 향해 손짓함 |
 
 `shoot at`은 빗나감을 확정하지 않는다. 맞았는지 여부가 아니라 목표를 향해 발사한 행위에 초점을 둔다. 또한 `hear about`은 관련 소식, `hear from`은 그 사람에게서 온 연락을 나타낸다.
+
+전치사는 번역보다 동사와 함께 묶어 익히는 편이 안전하다.
+
+| 구조 | 자연스러운 예문 | 주의할 형태 |
+| --- | --- | --- |
+| `listen to + 대상` | `I listen to the radio while driving.` | `listen the radio` |
+| `explain + 사물 + to + 사람` | `Can you explain this word to me?` | `explain me this word` |
+| `answer + 사람/질문` | `She answered my question.` | `answer to my question` |
+| `discuss + 주제` | `We discussed the problem.` | `discuss about the problem` |
+| `provide + 사람 + with + 사물` | `The school provides students with books.` | 전치사 없이 두 목적어만 잇기 |
 
 ## 5. 최종 체크리스트
 
