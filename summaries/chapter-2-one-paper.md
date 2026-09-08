@@ -174,4 +174,4 @@ I saw Kate waiting for a bus.     기다리는 중인 장면을 봄
 
 ## 관련 학습
 
-[4일차](../days/4.md) · [5일차](../days/5.md) · [6일차](../days/6.md) · [7일차](../days/7.md) · [8일차](../days/8.md) · [9일차](../days/9.md) · [10일차](../days/10.md)
+[4일차](../days/004.md) · [5일차](../days/005.md) · [6일차](../days/006.md) · [7일차](../days/007.md) · [8일차](../days/008.md) · [9일차](../days/009.md) · [10일차](../days/010.md)
